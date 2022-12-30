@@ -2,3 +2,83 @@ html, body {
   height: 100%;
   width: 100%;
 }
+
+.projects {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+
+.break-three {
+  margin: auto;
+  width: 50%;
+}
+
+.beg {
+  text-align: center;
+}
+
+.bio {
+  margin: auto;
+  width: 50%;
+}
+
+.indented-bullets {
+  padding: 10px;
+}
+
+.title-four {
+  width: 50%;
+  margin: auto;
+}
+
+.contact-me {
+  margin: auto;
+  width: 50%;
+}
+
+.title-two {
+  width: 50%;
+  margin: auto;
+}
+
+.skill-table {
+  padding: 20px;
+  margin: auto;
+  width: 50%;
+}
+
+.end-footer {
+  margin: auto;
+  width: 50%;
+  padding: 20px;
+}
+
+.break-one {
+  margin: auto;
+  width: 50%;
+}
+
+.break-two {
+  margin: auto;
+  width: 50%;
+}
+
+.title-one {
+  margin: auto;
+  width: 50%;
+}
+
+.title-three {
+  margin: auto;
+  width: 50%;
+}
+
+/* following code is from @Bookie0's bounce.css repository */
+.rainbow {
+	background: linear-gradient(90.02deg, #70F1D5 0.02%, #E065B3 27.09%, #FAE560 51.04%, #54B8F3 76.56%, #9260DE 99.99%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	background-clip: text;
+}
+
